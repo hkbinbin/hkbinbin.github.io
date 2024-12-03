@@ -26,8 +26,8 @@ links:
     website: https://github.com/cnwangjihe
     image: https://avatars.githubusercontent.com/u/20549727?v=4
   - title: RocketDev
-    website: https://rocketmadev.github.io/
-    image: https://rocketmadev.github.io/images/avatar.png
+    website: https://rocketma.dev/
+    image: https://rocketma.dev/images/avatar.png
   - title: Munan
     website: https://sxsxno.github.io/
     image: https://sxsxno.github.io/images/favicon-48x48.png
