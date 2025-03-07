@@ -10,9 +10,9 @@ links:
   - title: pikaball
     website: https://pikaball.cc/
     image: https://pikaball.cc/img/head.jpg
-  - title: cherrin
+  - title: cherriny
     website: https://cherr.cc/#/
-    image: https://img.923329.xyz/api/cfile/AgACAgQAAyEGAASRzsK6AAIBJGcqbY6Yqn34Zg63rlZBHAlwTpG1AAJRxTEbMilYUUENPyqPRrjEAQADAgADbQADNgQ
+    image: https://iili.io/2pVlUKP.md.jpg
   - title: zephyr
     website: https://zephyr369.online/
     image: https://zephyr369.online/img/avatar.png
