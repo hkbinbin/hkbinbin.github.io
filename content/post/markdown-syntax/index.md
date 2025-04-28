@@ -3,13 +3,7 @@ title: Markdown Syntax Guide
 date: 2023-09-07
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
 categories:
-    - themes
-    - syntax
 hidden: True
 ---
 
